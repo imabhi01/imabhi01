@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @imabhi01
+- 👋 Hi, I’m Abhishek
 - 👀 I’m interested in coding and programming.
 - 🌱 I’m currently learning Full Stack Web Development with PHP and MERN Stack.
 - 💞️ I’m looking to collaborate on github community with friends and people
