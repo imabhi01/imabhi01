@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abhishek
-- 👀 I’m interested in coding and programming.
-- 🌱 I’m currently learning Full Stack Web Development with PHP and MERN Stack.
+- 👀 Pursuing MSc. Computer Science. Machine Learning Enthusiast | Engineer | Developer. I’m interested in coding and programming.
+- 🌱 I’m currently learning Full Stack Web Development with PHP, Django and MERN Stack.
 - 💞️ I’m looking to collaborate on github community with friends and people
 - 📫 Reach out to me at iamdev.abhishek@gmail.com / https://chaudharyabhishek.com.np/
 
